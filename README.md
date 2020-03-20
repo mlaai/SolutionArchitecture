@@ -1,6 +1,6 @@
 # Solution Architecture
 
-[Component] = {Code, Configuration, AWS Resource}
+[Component] = {Code, Configuration, Resource}
 
 [Component] <=> (Business Requirement)
 
